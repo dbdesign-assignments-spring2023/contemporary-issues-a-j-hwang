@@ -1,4 +1,4 @@
-# Title 
+# AI chatbot banning in classroom
 In this document, I discuss two articles about banning AI chatbots in schools and how it may be used for cheating. 
 
 ## Article 1
